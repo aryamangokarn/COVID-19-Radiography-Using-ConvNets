@@ -16,6 +16,10 @@ Dataset Link: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography
 
 The performance of the model was evaluated using the training curve as plotted in Fig. 4. The accuracy after the 25 epochs for CNN, VGG-16 and VGG-19 model was found to be 84.75%, 89.77% and 93.77% respectively, as shown in below table , in which a value of 100% indicates a perfect accuracy. The loss, on the other hand, keeps on decreasing with each epoch and then it reaches critical point where it almost remains constant.
 
+<p align="center">
+  <img  src="https://user-images.githubusercontent.com/88145926/214232195-6dc10196-5d94-41da-80e5-1eafa7758347.png">
+</p>
+
 ## Conclusion
 
 We compared performances of CNN, VGG-16 and VGG-19 architectures using the Kaggle dataset. Performance metrics such as accuracy, F-score, precision, and confusion matrix
