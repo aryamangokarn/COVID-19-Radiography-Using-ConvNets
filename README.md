@@ -8,7 +8,7 @@ The COVID-19 pandemic continues to have a negative impact on the fitness and wel
 
 The Kaggle dataset was obtained by a team of researchers from Qatar University, Doha, Qatar, and the University of Dhaka, Bangladesh along with their collaborators from Pakistan and Malaysia in collaboration with medical doctors. The dataset consists of chest X-ray images for COVID-19 positive cases along with Normal and Viral Pneumonia images. 
 
-The dataset contains 5380 radiography images divided into four categories: Covid-19, Lung Opacity, Normal, and Pneumonia. Each category contains 1345 images. For the evaluation, we split the images in a 6:2:2 ratio for the train/test/validation set per category.
+The dataset contains 5380 radiography images divided into four categories: COVID-19, Lung Opacity, Normal, and Pneumonia. Each category contains 1345 images. For the evaluation, we split the images in a 6:2:2 ratio for the train/test/validation set per category.
 
 Dataset Link: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 
